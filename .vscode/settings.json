@@ -1,0 +1,18 @@
+{  
+    "editor.fontSize": 15,
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "window.autoDetectColorScheme": false,
+    "accessibility.signalOptions.volume": 100,
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "bounded",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.trimAutoWhitespace": false,
+    "editor.wordWrapColumn": 100,
+    "diffEditor.hideUnchangedRegions.contextLineCount": 5,
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "files.insertFinalNewline": true,
+    "files.simpleDialog.enable": false,
+    "files.trimTrailingWhitespaceInRegexAndStrings": false
+}
